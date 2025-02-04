@@ -3,7 +3,7 @@
 ![Versión](https://img.shields.io/github/package-json/v/ismaelpadilla/salario-liquido-uruguay?label=versi%C3%B3n)
 ![Build y test](https://github.com/ismaelpadilla/salario-liquido-uruguay/workflows/Build%20y%20test/badge.svg)
 
-✔Actualizado para el 2024.
+✔Actualizado para el 2025.
 
 ----
 
@@ -40,15 +40,15 @@ El IRPF es el impuesto con el que la gente suele tener más problemas a la hora 
 
 Contrario a creencia popular, no se cobra el impuesto correspondiente a la franja más alta sobre todo el salario, si no que se aplican diferentes tasas a la porción de salario que está dentro de cada franja.
 
-Por ejemplo, si el salario nominal es de $80.000, y el BPC es $6177 (valor de 2024), el impuesto que se cobra es:
+Por ejemplo, si el salario nominal es de $80.000, y el BPC es $6576 (valor de 2025), el impuesto que se cobra es:
 
-- 0% sobre la porción del salario que cae entre la franja 0 y 7 BPC (impuesto de 0% sobre $43.239-$0=$43.239 del salario -> $0).
-- 7% sobre la porción del salario que cae entre la franja 7 y 10 BPC (impuesto de 10% sobre $61.770-$43.239=$18.531 del salario -> $1.853).
-- 15% sobre la porción del salario que cae entre la franja 10 y 15 BPC (impuesto de 15% sobre $84.800-$61.770=$23.030 del salario -> $3.455).
+- 0% sobre la porción del salario que cae entre la franja 0 y 7 BPC (impuesto de 0% sobre $46.032-$0=$46.032 del salario -> $0).
+- 7% sobre la porción del salario que cae entre la franja 7 y 10 BPC (impuesto de 10% sobre $65.760-$46.033=$19.727 del salario -> $1.973).
+- 15% sobre la porción del salario que cae entre la franja 10 y 15 BPC (impuesto de 15% sobre $84.800-$65.761=$19.039 del salario -> $2.856).
 
 Tener en cuenta que si el salario es mayor a 10BPC, se incrementa un 6% para los cálculos del IRPF, por eso en este caso consideramos las franjas hasta $84.800.
 
-El IRPF (antes de aplicar las [deducciones correspondientes](https://www.dgi.gub.uy/wdgi/page?2,principal,_Ampliacion,O,es,0,PAG;CONC;40;1;D;cuales-son-las-deducciones-personales-admitidas-en-la-liquidacion-del-irpf-33486;5;PAG;)), sería entonces $5.308.
+El IRPF (antes de aplicar las [deducciones correspondientes](https://www.dgi.gub.uy/wdgi/page?2,principal,_Ampliacion,O,es,0,PAG;CONC;40;1;D;cuales-son-las-deducciones-personales-admitidas-en-la-liquidacion-del-irpf-33486;5;PAG;)), sería entonces $4.829.
 
 ## Cómo reportar errores
 

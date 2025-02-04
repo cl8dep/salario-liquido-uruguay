@@ -1,7 +1,7 @@
 /**
- * Valor BPC 2024.
+ * Valor BPC 2025.
  */
-const BPC = 6177;
+const BPC = 6576;
 
 /**
  * Franjas de IPRF.
@@ -31,7 +31,7 @@ const APORTES_JUBILATORIOS = 15;
 /**
  * Maximo del salario nominal sobre el cual aplican los aportes jubilatorios.
  */
-const TOPE_APORTES_JUBILATORIOS = 236309;
+const TOPE_APORTES_JUBILATORIOS = 272564;
 
 /**
  * Porcentaje de aportes FONASA para personas con salario hasta a 2.5 BPC.
@@ -50,7 +50,7 @@ const APORTE_FRL = 0.1;
 /**
  * Tope AFAP.
  */
-const TOPE_AFAP = 236309;
+const TOPE_AFAP = 272564;
 
 /**
  * Porcentaje de incremento de ingresos gravados que aplica si la renta computable es mayor a 10 BPC.
@@ -60,7 +60,7 @@ const INCREMENTO_INGRESOS_GRAVADOS = 6;
 /**
  * Porcentaje de deducciones de IRPF para personas con salario hasta 15 BPC.
  */
-const TASA_DEDUCCIONES_HASTA15BPC = 10;
+const TASA_DEDUCCIONES_HASTA15BPC = 14;
 /**
  * Porcentaje de deducciones de IRPF para personas con salario desde 15 BPC.
  */
