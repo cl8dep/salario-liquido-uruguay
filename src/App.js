@@ -106,7 +106,7 @@ class App extends React.Component {
           <div className="content">
             <header className="title">
               <h1 className="title-text">
-                Salario líquido Uruguay <span className="anio">2024</span>
+                Salario líquido Uruguay <span className="anio">2025</span>
               </h1>
             </header>
             <Switch>
@@ -139,7 +139,7 @@ class App extends React.Component {
                 </a>
               </span>
               <span className="footer-txt ultimaActualizacion">
-                v{pjsonn.version} - Última actualización: Febrero 2024
+                v{pjsonn.version} - Última actualización: Febrero 2025
               </span>
             </div>
             <a
